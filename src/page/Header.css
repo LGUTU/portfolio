@@ -1,0 +1,40 @@
+div#header>header{
+   margin: 0 auto;
+   width: 1850px;
+}
+div#header>header>h1{
+   margin-left: auto;
+   margin-right: auto;
+}
+div#header>header>h1>a>img{
+   display: flex;
+   align-items: center;
+   width: 220px;
+   margin-left: auto;
+   margin-right: auto;
+}
+div#header>header>ul.List{
+   list-style: none;
+   top: 0;
+   left: 0;
+   display: flex;
+   justify-content: flex-start;
+   flex-wrap: wrap;
+}
+div#header>header>ul.List>li{
+   margin-right: 30px;
+   word-spacing: 20px;
+}
+div#header>header>ul.Member{
+   list-style: none;
+   top: 0;
+   right: 0;
+   display: flex;
+   justify-content: flex-end;
+   flex-wrap: wrap;
+   margin-bottom: 30px;
+}
+div#header>header>ul.Member>li{
+   margin-right: 30px;
+   word-spacing: 20px;
+}

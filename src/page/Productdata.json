@@ -1,0 +1,44 @@
+[
+  {
+  "imageUrl":"img/melixir1.jpg",
+  "id":"1",
+  "name":"멜릭서 비건 립 버터 듀오",
+  "price":"18,000원"
+  },
+  {
+  "imageUrl":"img/melixir3.jpg",
+  "id":"2",
+  "name":"멜릭서 비건 립 버터 듀오",
+  "price":"18,000원"
+  },
+  {
+    "imageUrl":"img/melixir5.jpg",
+    "id":"3",
+    "name":"멜릭서 비건 립 버터 듀오",
+    "price":"18,000원"
+  },
+  {
+  "imageUrl":"img/melixir7.jpg",
+  "id":"2",
+  "name":"멜릭서 비건 립 버터 듀오",
+  "price":"18,000원"
+  },
+  {
+  "imageUrl":"img/melixir9.jpg",
+  "id":"3",
+  "name":"멜릭서 비건 립 버터 듀오",
+  "price":"18,000원"
+  },
+  {
+  "imageUrl":"img/melixir11.jpg",
+  "id":"4",
+  "name":"멜릭서 비건 립 버터 듀오",
+  "price":"18,000원"
+  },
+  {
+    "imageUrl":"img/melixir13.jpg",
+    "id":"5",
+    "name":"멜릭서 비건 립 버터 듀오",
+    "price":"18,000원"
+  }
+]

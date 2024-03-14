@@ -1,0 +1,41 @@
+div#container{
+    display:flex;
+    width: 1780px;
+}
+div#container>div>dl.fst{
+    display: inline-block;
+}
+div#container>div>dl.fst>dt>img{
+    margin-left: 40px;
+    margin-bottom: 20px;
+    width: 150px;
+}
+div#container>dl.sec{
+    display: block;
+}
+div#container>dl.sec>dt{
+    text-align: center;
+    margin-bottom: 10px;
+}
+div#container>dl.tri{
+    margin-left: 50px;
+}
+div#container>dl.tri>dt{
+    margin-left: 100px;
+    margin-bottom: 15px;
+}
+div#container>dl.forth>dt{
+    text-align: center;
+    margin-bottom: 15px;
+}
+div#container>dl.forth{
+    margin-left: 20px;
+}
+div#container>dl.fif>dt{
+    text-align: center;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+div#container>dl.fif{
+    margin-left: 20px;
+}

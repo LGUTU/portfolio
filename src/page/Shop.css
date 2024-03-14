@@ -1,0 +1,112 @@
+div#product{
+  width: 1850px;
+}
+div#ful>h1{
+  text-align: center;
+}
+section.box01{
+  width: 1761px;
+}
+section.box01>h2{
+  text-align: start;
+  margin-left: 100px;
+}
+section.box01>div.img{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+section.box01>div.img>figure:nth-child(1)>img{
+  margin-right: 30px;
+  width: 480px;
+  margin-left: 20px;
+}
+section.box01>div.img>figure:nth-child(1)>figcaption>dl{
+  font-size: 18px;
+  margin-left: 100px;
+}
+section.box01>div.img>figure:nth-child(2)>img{
+  width: 400px;
+}
+section.box01>div.img>figure:nth-child(2)>figcaption>dl{
+  font-size: 18px;
+}
+section.box01>div.img>figure:nth-child(3)>img{
+  width: 400px;
+  margin-left: 100px;
+}
+section.box01>div.img>figure:nth-child(3)>figcaption>dl{
+  margin-left: 100px;
+  font-size: 18px;
+}
+section.box02{
+  width: 1800px;
+}
+section.box02>div.img2{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+section.box02>h3{
+  margin-left: 90px;
+  font-size: 25px;
+}
+section.box02>div.img2>figure:nth-child(1)>img{
+  width: 450px;
+}
+
+section.box02>div.img2>figure:nth-child(1)>figcaption>dl>dt{
+  font-size: 20px;
+}
+section.box02>div.img2>figure:nth-child(1)>figcaption>dl>dd{
+  text-align: left;
+  font-size: 20px;
+  margin-right: 50px;
+}
+section.box02>div.img2>figure:nth-child(2)>img{
+  width: 450px;
+}
+section.box02>div.img2>figure:nth-child(2)>figcaption>dl>dt{
+  font-size: 20px;
+}
+section.box02>div.img2>figure:nth-child(2)>figcaption>dl>dd{
+  font-size: 20px;
+}
+section.box02>div.img2>figure:nth-child(3)>img{
+  width: 450px;
+}
+section.box02>div.img2>figure:nth-child(3)>figcaption>dl>dt{
+  font-size: 20px;
+}
+section.box02>div.img2>figure:nth-child(3)>figcaption>dl>dd{
+  font-size: 20px;
+}
+section.box02>div.img2>figure:nth-child(4)>img{
+  width: 450px;
+}
+section.box02>div.img2>figure:nth-child(4)>figcaption>dl>dt{
+  font-size: 20px;
+}
+section.box02>div.img2>figure:nth-child(4)>figcaption>dl>dd{
+  font-size: 20px;
+}
+section.box02>div.img2>figure:nth-child(5)>img{
+  width: 450px;
+}
+section.box02>div.img2>figure:nth-child(5)>figcaption>dl>dt{
+  font-size: 20px;
+}
+section.box02>div.img2>figure:nth-child(5)>figcaption>dl>dd{
+  font-size: 20px;
+}
+section.box02>div.img2>figure:nth-child(6)>img{
+  width: 450px;
+}
+section.box02>div.img2>figure:nth-child(6)>figcaption>dl>dd{
+  font-size: 20px;
+}
+section.box02>div.img2>figure:nth-child(6)>figcaption>dl>dt{
+  font-size: 20px;
+}
